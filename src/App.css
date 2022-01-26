@@ -1,0 +1,12 @@
+body{
+  background-color: aliceblue;
+  text-align: center;
+
+}
+a{
+  color: gray;
+  cursor: pointer;
+}
+.quantity__input{
+  text-align: center;
+}
